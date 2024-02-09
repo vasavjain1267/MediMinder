@@ -1,9 +1,10 @@
-# MediMinder<img width="1462" alt="ss5" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/937d7e14-7926-466d-9b3d-6b798b73e7e5"><img width="1456" alt="ss4" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/02870841-79f9-4a73-a007-fa6e4a1b0c69">
-<img width="1456" alt="ss2" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/f6acf910-00c9-4c8d-8be6-1dc0ac2937ae">
-<img width="1456" alt="ss1" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/f33f0b72-1a8b-4025-82ad-0acb7c1bd418">
+# MediMinder
 
-<img width="1456" alt="ss3" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/2ecb0aca-26df-4497-9138-22f9fdf067a5">
-
+<img width="1456" alt="ss1" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/ee940e57-010a-4603-ad37-7922dfe32b29">
+<img width="1456" alt="ss2" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/6d7f4f6d-a5ac-49da-b859-b1b857e74036">
+<img width="1456" alt="ss3" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/9406ad90-10c6-462b-b6f6-32daf5ce2c5b">
+<img width="1456" alt="ss4" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/233a3cef-199d-49d1-b51e-bfebc990c781">
+<img width="1462" alt="ss5" src="https://github.com/vasavjain1267/MediMinder/assets/149325200/bdc09b89-a22c-40be-9c97-0a8d03200906">
 It is an iOS based app
 💊Key Features
 • Pill reminder app for all medications
